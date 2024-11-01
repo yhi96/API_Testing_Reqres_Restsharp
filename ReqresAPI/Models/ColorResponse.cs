@@ -25,4 +25,6 @@ namespace ReqresAPI.Models
         [JsonPropertyName("pantone_value")]
         public string PantoneValue { get; set; }
     }
+
+    
 }

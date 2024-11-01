@@ -15,6 +15,10 @@ namespace ReqresAPI.Models
 
         [JsonPropertyName("updatedAt")]
         public string UpdatedAt { get; set; }
+
+
+        [JsonPropertyName("createdAt")]
+        public string CreatedAt { get; set; }
     }
 
 }

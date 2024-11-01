@@ -15,5 +15,15 @@ namespace ReqresAPI.Models
 
         [JsonPropertyName("last_name")]
         public string LastName { get; set; }
+
+        [JsonPropertyName("token")]
+        public string token { get; set; }
+
+        [JsonPropertyName("error")]
+        public string error { get; set; }
+        [JsonPropertyName("job")]
+        public string Job { get; set; }
+       
+     
     }
 }
