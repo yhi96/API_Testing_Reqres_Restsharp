@@ -56,5 +56,11 @@ namespace ReqresAPI.Models
         public string Text { get; set; }
     }
 
+    public class GetSingleUserResponse
+    {
+        [JsonPropertyName("data")]
+        public UserData Data { get; set; }
+    }
+
 }
 

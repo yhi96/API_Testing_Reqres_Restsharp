@@ -2,10 +2,10 @@
 
 namespace ReqresAPI.Models
 {
-    public class ColorResponse
+    public class AllColorsResponse
     {
         [JsonPropertyName("data")]
-        public List<ColorResponse> Colors { get; set; }
+        public List<ColorData> Colors { get; set; }
     }
 
     public class ColorData
@@ -26,5 +26,11 @@ namespace ReqresAPI.Models
         public string PantoneValue { get; set; }
     }
 
-    
+    public class SingleColor
+    {
+        [JsonPropertyName("data")]
+        public ColorData Data { get; set; }
+    }
+
+
 }

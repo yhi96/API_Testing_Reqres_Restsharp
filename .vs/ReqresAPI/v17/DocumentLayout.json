@@ -1,26 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Atanas Work\\Documents\\GitHub\\API_Testing_Reqres_Restsharp\\",
+  "WorkspaceRootPath": "C:\\Users\\yhimo\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\ReqresAPI\\ReqresAPI\\API_Testing_Reqres_Restsharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CE850A39-71BF-43D5-9A29-4F43E5D3A0C9}|ReqresAPI\\ReqresAPI.csproj|c:\\users\\atanas work\\documents\\github\\api_testing_reqres_restsharp\\reqresapi\\reqresapitest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CE850A39-71BF-43D5-9A29-4F43E5D3A0C9}|ReqresAPI\\ReqresAPI.csproj|c:\\users\\yhimo\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\reqresapi\\reqresapi\\api_testing_reqres_restsharp\\reqresapi\\reqresapitest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CE850A39-71BF-43D5-9A29-4F43E5D3A0C9}|ReqresAPI\\ReqresAPI.csproj|solutionrelative:reqresapi\\reqresapitest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CE850A39-71BF-43D5-9A29-4F43E5D3A0C9}|ReqresAPI\\ReqresAPI.csproj|c:\\users\\atanas work\\documents\\github\\api_testing_reqres_restsharp\\reqresapi\\models\\getlistusersresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE850A39-71BF-43D5-9A29-4F43E5D3A0C9}|ReqresAPI\\ReqresAPI.csproj|solutionrelative:reqresapi\\models\\getlistusersresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CE850A39-71BF-43D5-9A29-4F43E5D3A0C9}|ReqresAPI\\ReqresAPI.csproj|c:\\users\\atanas work\\documents\\github\\api_testing_reqres_restsharp\\reqresapi\\models\\colorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CE850A39-71BF-43D5-9A29-4F43E5D3A0C9}|ReqresAPI\\ReqresAPI.csproj|c:\\users\\yhimo\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\reqresapi\\reqresapi\\api_testing_reqres_restsharp\\reqresapi\\models\\colorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CE850A39-71BF-43D5-9A29-4F43E5D3A0C9}|ReqresAPI\\ReqresAPI.csproj|solutionrelative:reqresapi\\models\\colorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CE850A39-71BF-43D5-9A29-4F43E5D3A0C9}|ReqresAPI\\ReqresAPI.csproj|c:\\users\\atanas work\\documents\\github\\api_testing_reqres_restsharp\\reqresapi\\models\\supportresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE850A39-71BF-43D5-9A29-4F43E5D3A0C9}|ReqresAPI\\ReqresAPI.csproj|solutionrelative:reqresapi\\models\\supportresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CE850A39-71BF-43D5-9A29-4F43E5D3A0C9}|ReqresAPI\\ReqresAPI.csproj|c:\\users\\yhimo\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\reqresapi\\reqresapi\\api_testing_reqres_restsharp\\reqresapi\\models\\userresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE850A39-71BF-43D5-9A29-4F43E5D3A0C9}|ReqresAPI\\ReqresAPI.csproj|solutionrelative:reqresapi\\models\\userresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CE850A39-71BF-43D5-9A29-4F43E5D3A0C9}|ReqresAPI\\ReqresAPI.csproj|c:\\users\\atanas work\\documents\\github\\api_testing_reqres_restsharp\\reqresapi\\models\\userresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE850A39-71BF-43D5-9A29-4F43E5D3A0C9}|ReqresAPI\\ReqresAPI.csproj|solutionrelative:reqresapi\\models\\userresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CE850A39-71BF-43D5-9A29-4F43E5D3A0C9}|ReqresAPI\\ReqresAPI.csproj|c:\\users\\yhimo\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\reqresapi\\reqresapi\\api_testing_reqres_restsharp\\reqresapi\\models\\getlistusersresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE850A39-71BF-43D5-9A29-4F43E5D3A0C9}|ReqresAPI\\ReqresAPI.csproj|solutionrelative:reqresapi\\models\\getlistusersresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE850A39-71BF-43D5-9A29-4F43E5D3A0C9}|ReqresAPI\\ReqresAPI.csproj|c:\\users\\yhimo\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\reqresapi\\reqresapi\\api_testing_reqres_restsharp\\reqresapi\\models\\supportresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE850A39-71BF-43D5-9A29-4F43E5D3A0C9}|ReqresAPI\\ReqresAPI.csproj|solutionrelative:reqresapi\\models\\supportresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,80 +30,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 4,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "GetListUsersResponse.cs",
-              "DocumentMoniker": "C:\\Users\\Atanas Work\\Documents\\GitHub\\API_Testing_Reqres_Restsharp\\ReqresAPI\\Models\\GetListUsersResponse.cs",
+              "DocumentMoniker": "C:\\Users\\yhimo\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\ReqresAPI\\ReqresAPI\\API_Testing_Reqres_Restsharp\\ReqresAPI\\Models\\GetListUsersResponse.cs",
               "RelativeDocumentMoniker": "ReqresAPI\\Models\\GetListUsersResponse.cs",
-              "ToolTip": "C:\\Users\\Atanas Work\\Documents\\GitHub\\API_Testing_Reqres_Restsharp\\ReqresAPI\\Models\\GetListUsersResponse.cs",
+              "ToolTip": "C:\\Users\\yhimo\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\ReqresAPI\\ReqresAPI\\API_Testing_Reqres_Restsharp\\ReqresAPI\\Models\\GetListUsersResponse.cs",
               "RelativeToolTip": "ReqresAPI\\Models\\GetListUsersResponse.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAzwAsAAAAIAAAAAAAAAA==",
+              "ViewState": "AQIAADQAAAAAAAAAAAAmwDoAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-01T13:05:45.532Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "ColorResponse.cs",
-              "DocumentMoniker": "C:\\Users\\Atanas Work\\Documents\\GitHub\\API_Testing_Reqres_Restsharp\\ReqresAPI\\Models\\ColorResponse.cs",
+              "DocumentMoniker": "C:\\Users\\yhimo\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\ReqresAPI\\ReqresAPI\\API_Testing_Reqres_Restsharp\\ReqresAPI\\Models\\ColorResponse.cs",
               "RelativeDocumentMoniker": "ReqresAPI\\Models\\ColorResponse.cs",
-              "ToolTip": "C:\\Users\\Atanas Work\\Documents\\GitHub\\API_Testing_Reqres_Restsharp\\ReqresAPI\\Models\\ColorResponse.cs",
+              "ToolTip": "C:\\Users\\yhimo\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\ReqresAPI\\ReqresAPI\\API_Testing_Reqres_Restsharp\\ReqresAPI\\Models\\ColorResponse.cs",
               "RelativeToolTip": "ReqresAPI\\Models\\ColorResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAEAAAAAAAAAA==",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB8AAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-01T13:03:59.496Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "SupportResponse.cs",
-              "DocumentMoniker": "C:\\Users\\Atanas Work\\Documents\\GitHub\\API_Testing_Reqres_Restsharp\\ReqresAPI\\Models\\SupportResponse.cs",
+              "DocumentMoniker": "C:\\Users\\yhimo\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\ReqresAPI\\ReqresAPI\\API_Testing_Reqres_Restsharp\\ReqresAPI\\Models\\SupportResponse.cs",
               "RelativeDocumentMoniker": "ReqresAPI\\Models\\SupportResponse.cs",
-              "ToolTip": "C:\\Users\\Atanas Work\\Documents\\GitHub\\API_Testing_Reqres_Restsharp\\ReqresAPI\\Models\\SupportResponse.cs",
+              "ToolTip": "C:\\Users\\yhimo\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\ReqresAPI\\ReqresAPI\\API_Testing_Reqres_Restsharp\\ReqresAPI\\Models\\SupportResponse.cs",
               "RelativeToolTip": "ReqresAPI\\Models\\SupportResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAfAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-01T12:36:11.802Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "UserResponse.cs",
-              "DocumentMoniker": "C:\\Users\\Atanas Work\\Documents\\GitHub\\API_Testing_Reqres_Restsharp\\ReqresAPI\\Models\\UserResponse.cs",
+              "DocumentMoniker": "C:\\Users\\yhimo\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\ReqresAPI\\ReqresAPI\\API_Testing_Reqres_Restsharp\\ReqresAPI\\Models\\UserResponse.cs",
               "RelativeDocumentMoniker": "ReqresAPI\\Models\\UserResponse.cs",
-              "ToolTip": "C:\\Users\\Atanas Work\\Documents\\GitHub\\API_Testing_Reqres_Restsharp\\ReqresAPI\\Models\\UserResponse.cs",
+              "ToolTip": "C:\\Users\\yhimo\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\ReqresAPI\\ReqresAPI\\API_Testing_Reqres_Restsharp\\ReqresAPI\\Models\\UserResponse.cs",
               "RelativeToolTip": "ReqresAPI\\Models\\UserResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-01T08:39:26.107Z",
               "EditorCaption": ""
@@ -112,11 +88,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ReqresAPItest.cs",
-              "DocumentMoniker": "C:\\Users\\Atanas Work\\Documents\\GitHub\\API_Testing_Reqres_Restsharp\\ReqresAPI\\ReqresAPItest.cs",
+              "DocumentMoniker": "C:\\Users\\yhimo\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\ReqresAPI\\ReqresAPI\\API_Testing_Reqres_Restsharp\\ReqresAPI\\ReqresAPItest.cs",
               "RelativeDocumentMoniker": "ReqresAPI\\ReqresAPItest.cs",
-              "ToolTip": "C:\\Users\\Atanas Work\\Documents\\GitHub\\API_Testing_Reqres_Restsharp\\ReqresAPI\\ReqresAPItest.cs",
+              "ToolTip": "C:\\Users\\yhimo\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\ReqresAPI\\ReqresAPI\\API_Testing_Reqres_Restsharp\\ReqresAPI\\ReqresAPItest.cs",
               "RelativeToolTip": "ReqresAPI\\ReqresAPItest.cs",
-              "ViewState": "AgIAAIwAAAAAAAAAAAAIwKQAAAAMAAAAAAAAAA==",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-31T19:44:56.003Z",
               "EditorCaption": ""

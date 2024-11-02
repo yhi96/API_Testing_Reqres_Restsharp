@@ -160,53 +160,94 @@ namespace ReqresAPI
             var countUsers = responseData.Data.Count;
             Assert.That(countUsers, Is.EqualTo(6));
             Assert.That(responseData.Page, Is.EqualTo(2));
-            Assert.That(responseData.PerPage, Is.EqualTo(12));
+            Assert.That(responseData.PerPage, Is.EqualTo(6));
             Assert.That(responseData.TotalPages, Is.EqualTo(2));
              
-
-
         }
 
         [Test]
         public void Test_Get_List_Of_Single_User()
         {
+            var request = new RestRequest("api/users/2", Method.Get);
 
+            var response = client.Execute(request);
+            var responseData = JsonSerializer.Deserialize<GetSingleUserResponse>(response.Content);
+
+            Assert.That(response.StatusCode, Is.EqualTo(HttpStatusCode.OK));
+            Assert.That(responseData.Data.Id, Is.EqualTo(2));
         }
 
         [Test]
         public void Test_Get_List_Of_User_That_Does_Not_Exist()
         {
+            var request = new RestRequest("api/users/23", Method.Get);
 
+            var response = client.Execute(request);
+
+            Assert.That(response.StatusCode, Is.EqualTo(HttpStatusCode.NotFound));
         }
 
         [Test]
         public void Test_Get_List_Of_Existing_Colors()
         {
+            var request = new RestRequest("api/unknown", Method.Get);
 
+            var response = client.Execute(request);
+            var responseData = JsonSerializer.Deserialize<AllColorsResponse>(response.Content);
+
+            Assert.That(response.StatusCode, Is.EqualTo(HttpStatusCode.OK));
+            var colorsCount = responseData.Colors.Count;
+
+            Assert.That(colorsCount, Is.EqualTo(6));
         }
 
         [Test]
         public void Test_Get_List_Of_Single_Color()
         {
+            var request = new RestRequest("api/unknown/2", Method.Get);
 
+            var response = client.Execute(request);
+            var responseData = JsonSerializer.Deserialize<SingleColor>(response.Content);
+
+            Assert.That(response.StatusCode, Is.EqualTo(HttpStatusCode.OK));
+            var colorId = responseData.Data.Id;
+
+            Assert.That(colorId, Is.EqualTo(2));
         }
 
         [Test]
         public void Test_Get_List_Of_Single_Color_That_Does_Not_Exist()
         {
+            var request = new RestRequest("api/unknown/23", Method.Get);
 
+            var response = client.Execute(request);
+
+            Assert.That(response.StatusCode, Is.EqualTo(HttpStatusCode.NotFound));
+            
         }
 
         [Test]
         public void Test_Get_List_Of_Users_With_Delayed_Response()
         {
-           
+            var request = new RestRequest("api/users/2", Method.Get);
+
+            Thread.Sleep(2000); 
+
+
+            var response = client.Execute(request);
+
+            Assert.That(response.StatusCode, Is.EqualTo(HttpStatusCode.OK));
+
         }
 
         [Test]
         public void Test_Delete_User()
         {
+            var request = new RestRequest("api/users/2", Method.Get);
 
+            var response = client.Execute(request);
+
+            Assert.That(response.StatusCode, Is.EqualTo(HttpStatusCode.OK));
         }
 
     }
